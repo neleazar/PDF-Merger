@@ -7,7 +7,6 @@ This Python script allows you to merge multiple PDF files into a single PDF file
 - [Features](#features)
   
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Usage](#usage)
 
 ## Features
@@ -23,3 +22,7 @@ This Python script allows you to merge multiple PDF files into a single PDF file
 
   pip install PyPDF2
 
+### Usage
+- Update the input_files list in the merge_pdfs.py script with the paths of the PDF files you want to merge.
+- Run the script.
+- The merged PDF will be created as specified in the output_pdf_path.
