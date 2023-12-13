@@ -22,3 +22,4 @@ This Python script allows you to merge multiple PDF files into a single PDF file
 - PyPDF2 library installed. Install it using:
 
   pip install PyPDF2
+
